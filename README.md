@@ -1,4 +1,4 @@
-# UNP_PROJECT_BI-WITH-POWER-BI_HR-
+# UNP_PROJECT_BI-WITH-POWER-BI_HR
 
 Completed this Project as a Part of my Internship with United Network of Professionals (UNP).
 
